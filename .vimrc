@@ -1,0 +1,9 @@
+set tabstop=4
+set shiftwidth=4
+set incsearch
+set hlsearch
+syntax enable
+colorscheme jellybeans
+set number
+set tw=79
+set formatoptions+=t
